@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <declare-styleable name="SpinningImageView">
+    <attr name="siv_duration" format="integer" />
+    <attr name="siv_alwaysSpinning" format="boolean" />
+  </declare-styleable>
+
+</resources>

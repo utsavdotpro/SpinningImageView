@@ -1,0 +1,3 @@
+include ':SpinningImageView'
+include ':app'
+rootProject.name = "SpinningImageViewLibrary"
