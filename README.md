@@ -24,7 +24,7 @@ ImageView that can be spinned on function call. Use it as a onclick loader.
 ## How to use
 **Step 1:** Create view
 
-    <com.isolpro.avsinfotech.widgets.SpinningImageView
+    <com.isolpro.library.SpinningImageView
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:src="@drawable/ic_action_reload"
